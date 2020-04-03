@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "IpvaCalculator"
+    }
+  },
+  "defaultProject": "IpvaCalculator",
+  "cli": {
+    "analytics": "1550a08f-b5fa-4777-8619-7c1f02c19559"
+  }
 }
